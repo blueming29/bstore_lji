@@ -1,0 +1,15 @@
+form{
+	width: 530px;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	
+}
+form#join label{
+	float: left;
+	width: 140px;
+	height: 20px;
+	margin-right: 5px;
+	paddin-left: 5px;
+	background-color: #eee;
+}

@@ -1,0 +1,126 @@
+#wrap {
+/* 	width: 600px; */
+	width: auto;
+	margin: 0;
+	margin-right: auto;
+	margin-left: auto;
+   }
+   
+#right{
+	float: right;
+}
+
+#center{
+	text-align: center;
+}
+
+
+.twidth{
+	/* width: 600px; */
+	width: auto;
+	border: 1px solid #ccc;
+	/* border-collapse: collapse; */
+}
+
+th{
+	font-family: Rix오늘의만화;
+	height: 30px;
+}
+
+td{
+	font-family: Rix오늘의만화;
+	border: 1px solid #ccc;
+	text-align: center;
+	height: 30px;
+}
+
+caption{
+	background-color: #ccc;
+	height: 30px;
+	padding: 10px 0;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: Rix오늘의만화;
+	color: #eee;
+}
+
+.left{
+	padding: 0 15px;
+	text-align: left;
+}
+
+.input{
+	margin: 0;
+	width: 460px;
+	height: 20px;
+}
+
+#content{
+	margin:0;
+	width: 460px;
+	height: 200px;
+	background-color: #eee
+}
+
+td#content{
+	text-align: left;
+	padding: 0 15px;
+	margin:0;
+	width: 460px;
+	height: 200px;
+	background-color: white;
+}
+
+a{
+	font-family: Rix오늘의만화;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: #aaa;
+}
+a#home{
+	font-size: 30px;
+	font-weight: bold;
+}
+a#home:hover{
+	color: black;
+}
+
+.mg-left{
+	margin-left: 130px;
+}
+
+.click{
+	background-color: #eee;
+	font-family: Rix오늘의만화;
+	font-size: 40px;
+	width: 200px;
+	height: 100px;
+}
+
+span{
+	font-family: Rix오늘의만화;
+}
+
+a#current{
+	color: white;
+	background-color: #ccc;
+	border: 1px solid black;
+}
+
+a#others{
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+}
+
+input#search{
+	font-family: Rix오늘의만화;
+	color: white;
+	background-color: #ccc;
+	border: 1px solid black;
+	width: 40px;
+	height: 25px;
+}

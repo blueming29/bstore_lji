@@ -1,0 +1,8 @@
+create table bookstore(
+jibno number,
+jibtitle varchar(20),
+jibwriter varchar(20),
+jibcontent varchar(2000),
+jibdate date,
+jibhit number
+);

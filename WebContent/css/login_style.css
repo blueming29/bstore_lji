@@ -1,0 +1,55 @@
+#wrap{
+	width: 530px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid #e6cdab;
+	font-family: Rix오늘의만화;
+	font-size: 18px;
+}
+
+td{
+	border: 1px solid #e6cdab;
+	background-color: #e6cdab
+}
+
+#bgcolor{
+	background-color: #e6cdab;
+	border: 1px solid #ccc;
+	font-family: Rix오늘의만화;
+	font-size: 18px;
+	
+}
+
+span#warning{
+	font-family: Rix오늘의만화;
+	font-size: 15px;
+	color: red;
+}
+
+#lg_btn{
+	background-color: #e6cdab;
+	border: 1px solid #ccc;
+	font-family: Rix오늘의만화;
+	font-size: 18px;
+	width: 240px;
+	height: 35px;
+}
+
+a{
+	color: #bbb;
+	font-family: Rix오늘의만화;
+	font-size: 15px;
+}
+a:hover{
+	color: #e6cdab;
+}
+
+#txt_color{
+	color: #bbb;
+}
